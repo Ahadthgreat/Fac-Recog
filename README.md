@@ -1,6 +1,6 @@
 # YOLOv8 Face Recognition
 
-This repository contains a face recognition model based on YOLOv8, trained on a dataset of over 13,000 training images and 3,500 validation images. The model aims to accurately detect faces in images and videos.
+This repository contains a face recognition model based on YOLOv8, trained on a dataset of over 13,000+ training images and 3,000+ validation images. The model aims to accurately detect faces in images and videos.
 
 ## Setup
 
@@ -37,7 +37,7 @@ import cv2
 
 model = YOLO("best.pt")
 
-results = model.predict(source="demo.mp4", show=True)  #Use Example Video/Webcam in source as required
+results = model.predict(source="demo.mp4", show=True)  # Use Example Video/Webcam in Source
 
 print(results)
 ```
