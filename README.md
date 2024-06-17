@@ -1,6 +1,6 @@
-# YOLOv8 Face Recognition
+# YOLOv8 Face Detection
 
-This repository contains a face recognition model based on YOLOv8, trained on a dataset of over 13,000+ training images and 3,000+ validation images. The model aims to accurately detect faces in images and videos.
+This repository contains a face detection model based on YOLOv8, trained on a dataset of over 13,000+ training images and 3,000+ validation images. The model aims to accurately detect faces in images and videos.
 
 Demo - https://www.youtube.com/watch?v=myJxK8caywc
 
@@ -31,7 +31,7 @@ Download the pre-trained model `best.pt` and place it in the root directory of t
 
 ### Predicting on a Video
 
-You can use the model to predict faces in a video file as follows:
+You can use the model to detect faces in a video file as follows:
 
 ```python
 from ultralytics import YOLO
