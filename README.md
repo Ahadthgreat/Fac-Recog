@@ -14,7 +14,7 @@ Demo - https://www.youtube.com/watch?v=myJxK8caywc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Adiiii02/Face-Recognition-YOLO.git
+   git clone https://github.com/Adiiii02/Face-Detection-YOLO.git
    cd Face-Recognition-YOLO
    ```
 
