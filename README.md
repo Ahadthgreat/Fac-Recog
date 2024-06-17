@@ -12,7 +12,7 @@ This repository contains a face recognition model based on YOLOv8, trained on a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Face-Recognition-YOLO.git
+   git clone https://github.com/Adiiii02/Face-Recognition-YOLO.git
    cd Face-Recognition-YOLO
    ```
 
